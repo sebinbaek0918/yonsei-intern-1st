@@ -58,7 +58,7 @@ nav ul li a:hover {
 /*본문*/
 #full{
     display:flex;
-    height: 880px;
+    height: 980px;
     background: #F6F7F0;
     font-family: Nexon;
 }
